@@ -8,3 +8,11 @@
 
 ### Tela Login
 ![Tela Login](https://github.com/AlexDeSaran/Freedioma/blob/main/Dem/login.PNG)
+### Tela Principal
+![Tela 2](https://github.com/AlexDeSaran/Freedioma/blob/main/Dem/2.PNG)
+### Escolha Da Categoria.
+![Tela 3](https://github.com/AlexDeSaran/Freedioma/blob/main/Dem/3.PNG)
+### Escolha Do Item A Ser Adivinhado.
+![Tela 4](https://github.com/AlexDeSaran/Freedioma/blob/main/Dem/4.PNG)
+### Exercicio Na Prática.
+![Tela 4](https://github.com/AlexDeSaran/Freedioma/blob/main/Dem/5.PNG)
