@@ -17,5 +17,5 @@
 ### Exercicio Na Prática.
 ![Tela 4](https://github.com/AlexDeSaran/Freedioma/blob/main/Dem/5.PNG)
 ~~~~Java
-Tudo Desenvolvido Em Java
+
 ~~~~
