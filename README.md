@@ -1,3 +1,5 @@
+# FREEDIOMA [![Build Status](https://travis-ci.org/jonatawilliam/Freedioma.svg?branch=main)](https://travis-ci.org/jonatawilliam/Freedioma)
+
 ## Segue instruções para a execução do programa:
 
 #### 1. Execute o "Freedioma_BD.sql" no Mysql Workbench;
