@@ -1,4 +1,4 @@
-# FREEDIOMA [![Build Status](https://travis-ci.org/jonatawilliam/Freedioma.svg?branch=main)](https://travis-ci.org/jonatawilliam/Freedioma)
+# FREEDIOMA    [![Build Status](https://travis-ci.org/jonatawilliam/Freedioma.svg?branch=main)](https://travis-ci.org/jonatawilliam/Freedioma)
 
 ## Segue instruções para a execução do programa:
 
